@@ -1,0 +1,3 @@
+﻿Transaction Hash,Status,Method,Blockno,DateTime (UTC),From,From_Nametag,To,To_Nametag,Amount,Value (IDR),Txn Fee
+"0xfcda74bd463b032a7c29ec4fb2c0097c40879075b479670ed9401b7fff24939b","Success","Initialize","22940110","2025-07-17 16:26:47","0x3dd6ea51cd6e78d868f5d3d33deda5c1308f0ba4","Pintu Token: Deployer","0xe8fc59036fe59c1237deb11bf7ea3ca6e0883907","","0 ETH","IDR 0.00","0.00410486"
+"0x5976b56d4fc12dcf2d014fe1867825714a735615f144e3a2b74e8426b235a37d","Success","0x60806040","13446332","2021-10-19 05:26:27","0x3dd6ea51cd6e78d868f5d3d33deda5c1308f0ba4","Pintu Token: Deployer","","","0 ETH","IDR 0.00","0.15917114"
